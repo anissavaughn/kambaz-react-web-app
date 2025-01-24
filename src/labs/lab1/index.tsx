@@ -277,7 +277,7 @@ export default function Lab1() {
                 <input type="date" value="2000-01-21" id="wd-text-fields-dob" /><br />
   
             <h4>Anchor Tag</h4>
-            Please<a href="https://github.com/anissavaughn/canvas" id="wd-github"> click here</a> to go to GitHub.<br />
+            Please<a href="https://github.com/anissavaughn/kambaz-react-web-app" id="wd-github"> click here</a> to go to GitHub.<br />
           </form>
         </div>
       </div>
