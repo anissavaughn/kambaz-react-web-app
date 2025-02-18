@@ -5,6 +5,8 @@ import KambazNavigation from "./navigation";
 import Courses from "./courses";
 import "./styles.css";
 
+
+
 export default function Kambaz() {
   return (
     <div id="wd-kambaz">
