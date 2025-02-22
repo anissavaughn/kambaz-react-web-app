@@ -1,22 +1,22 @@
 import "./index.css";
-import ForegroundColors from "./foregroundcolors";
+import ForegroundColors from "./ForegroundColors";
 import BackgroundColors from "./backgroundcolors";
-import Borders from "./border";
-import Padding from "./padding";
-import Margin from "./margin";
-import Corners from "./corners";
-import Dimensions from "./dimensions";
-import Positions from "./positions";
-import Zindex from "./zindex";
-import Float from "./float";
-import GridLayout from "./gridlayout";
-import Flex from "./flex";
+import Borders from "./Border";
+import Padding from "./Padding";
+import Margin from "./Margin";
+import Corners from "./Corners";
+import Dimensions from "./Dimensions";
+import Positions from "./Positions";
+import Zindex from "./ZIndex";
+import Float from "./Float";
+import GridLayout from "./GridLayout";
+import Flex from "./Flex";
 import { Container } from "react-bootstrap";
-import BoostrapGrids from "./boostrapgrids";
-import ScreenSizeLabel from "./screensizelabel";
-import BootstrapTables from "./bootstraptables";
-import BootstrapLists from "./bootstraplists"; 
-import BootstrapForms from "./bootstrapforms";
+import BoostrapGrids from "./BoostrapGrids";
+import ScreenSizeLabel from "./ScreenSizeLabel";
+import BootstrapTables from "./BootstrapTables";
+import BootstrapLists from "./BootstrapLists"; 
+import BootstrapForms from "./BootstrapForms";
 import BootstrapNavigation from "./BootstrapNavigation";
 
 export default function Lab2() {
