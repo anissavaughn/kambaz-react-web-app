@@ -5,6 +5,7 @@ import Lab2 from './lab2';
 import Lab3 from './lab3';
 
 
+
 export default function Labs() {
   return (
     <div id="wd-labs">
@@ -14,8 +15,8 @@ export default function Labs() {
       <Routes>
         <Route path="/" element={<Navigate to="lab1" />} />
         <Route path="lab1" element={<Lab1 />} />
-        <Route path="lab2" element={<Lab2 />} />
-        <Route path="lab3" element={<Lab3 />} />
+        <Route path="lab2/*" element={<Lab2 />} />
+        <Route path="lab3/*" element={<Lab3 />} />
       </Routes>
     </div>
   );
